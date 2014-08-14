@@ -16,7 +16,8 @@ clonegit
 
 注意：	
 你也许还注意到，GitHub给出的地址不止一个，还可以用	
-	`$ git clone https://github.com/githubname/repname.git`	
+	`$ git clone https://github.com/githubname/repname.git`		
+
 实际上，Git支持多种协议，默认的	
 	`$ git clone git@github.com:githubname/repname.git`	
 
