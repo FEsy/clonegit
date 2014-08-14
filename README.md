@@ -17,7 +17,7 @@ clonegit
 注意：	
 你也许还注意到，GitHub给出的地址不止一个，还可以用	
 	`$ git clone https://github.com/githubname/repname.git`	
-实际上，Git支持多种协议，默认的
+实际上，Git支持多种协议，默认的	
 	`$ git clone git@github.com:githubname/repname.git`	
 
 仔细阅读会发现我的clone地址可能不一样，是因为我本地配置了使用多个github账号，具体可参考[多个github账号的ssh keys 支持][1]
